@@ -1,3 +1,15 @@
 .pink {
     background: rgb(255, 170, 184);
 }
+
+#blue {
+    color: blue;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+#green {
+    background: rgb(138, 255, 138);
+    font-size: 24px;
+    font-weight: 800;
+}
